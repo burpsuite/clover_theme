@@ -11,3 +11,6 @@
   *  Search `<key>Theme</key>`.
   *  Change `<string>...</string>` to `<string>Simple</string>`.
 * 4. Done.
+
+## License
+* MIT License.
