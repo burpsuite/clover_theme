@@ -6,9 +6,9 @@
 
 ## Usage
 * 1. Download `clover_theme` release file, and unzip.
-* 2. Move the `Simple` folder to the `EFI\CLOVER\themes` folder.
+* 2. Move the `Simple` folder to the `EFI\CLOVER\themes` folder
 * 3. Edit the `EFI\CLOVER\themes\config.plist` file.
-    * Open the `config.plist` file.
-    * Search `<key>Theme</key>`
-    * Change `<string>...</string>` to `<string>Simple</string>`
+  *  Open the `config.plist` file.
+  *  Search `<key>Theme</key>`.
+  *  Change `<string>...</string>` to `<string>Simple</string>`.
 * 4. Done.
