@@ -12,5 +12,11 @@
   *  Change `<string>...</string>` to `<string>Simple</string>`.
 * 4. Done.
 
+## Reference
+* [icon_ourea-icons](https://www.easyicon.net/language.en/iconsearch/iconset:ourea-icons/)
+* [NViconsLib-icons](https://www.easyicon.net/language.en/iconsearch/iconset:NViconsLib-icons/)
+* [ouline_Simple-Icons](https://www.easyicon.net/language.en/iconsearch/iconset:ouline-Simple-Icons/)
+* [Small_Memory-Wallpaper](https://dribbble.com/shots/3713646-Small-Memory)
+
 ## License
 * MIT License.
