@@ -4,7 +4,7 @@
 ## Screenshot
 ![screenshot](https://github.com/burpsuite/clover_theme/raw/master/screenshot.png)
 
-### Usage
+## Usage
 * 1. Download the `clover_theme` folder.
 * 2. Move the `clover_theme` folder to `EFI\CLOVER\themes`
 * 3. Edit `EFI\CLOVER\themes\config.plist`
