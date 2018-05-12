@@ -5,7 +5,7 @@
 ![screenshot](https://github.com/burpsuite/clover_theme/raw/master/screenshot.png)
 
 ## Usage
-* 1. Download `clover_theme` release file, and unzip.
+* 1. Download `Simple_v1.zip` [release](https://github.com/burpsuite/clover_theme/releases) file, and unzip.
 * 2. Move the `Simple` folder to the `EFI\CLOVER\themes` folder.
 * 3. Open the `EFI\CLOVER\themes\config.plist` file.
   *  Search `<key>Theme</key>`.
